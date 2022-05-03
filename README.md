@@ -1,5 +1,5 @@
 ## Hi Everyone! Welcome to my GitHub Account 👋
-Love to see you arround my repo. :heartpulse:
+Love to see you arround my repos. :heartpulse:
 
 ### Who am I? :detective:
 - Currently iam running my own research company [SocialX](https://github.com/socialx-indonesia). We provide various research platforms, consulting services, and various social computing workshops.
