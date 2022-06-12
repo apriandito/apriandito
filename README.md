@@ -7,7 +7,7 @@ Love to see you arround my repos. :heartpulse:
 - I am also a lecturer, teaching at various universities in Indonesia. such as [Institut Teknologi Bandung](https://www.itb.ac.id/), [Universitas Padjajaran](https://www.unpad.ac.id/), and [Universitas Telkom](https://telkomuniversity.ac.id/).
 - I often become an instructor in various Data Science trainings, such as the Digital Talent Scholarship program organized by the Ministry of Communication and Informatics, and also the Digital Talent Incubator program organized by Telkom Indonesia.
 - In my spare time, I love to learn new things, especially related to data analytics and blockchain.
-- I'm a big fan of [#rstats](https://cran.r-project.org/bin/windows/base/).
+- I'm a big fan of [#rstats](https://cran.r-project.org/bin/windows/base/) and #python.
 
 ## Github Statistics
 <a href="https://github.com/apriandito/apriandito">
