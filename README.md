@@ -1,5 +1,5 @@
-# Hi Everyone! Welcome to my GitHub Account 👋  
-[](https://komarev.com/ghpvc/?username=apriandito&label=PROFILE+VISITS) Love to see you arround my repos. :heartpulse:
+# Hi Everyone! Welcome to my GitHub Account 👋  ![](https://visitor-badge.glitch.me/badge?page_id=apriandito.apriandito)
+Love to see you arround my repos. :heartpulse: 
 
 ## Who am I? :detective:
 - My name is Muhammad Apriandito, you can call me Dito. I am an entrepreneur, Data Science mentor, lecturer, and developer.
