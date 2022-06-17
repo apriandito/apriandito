@@ -2,12 +2,11 @@
 Love to see you arround my repos. :heartpulse: 
 
 ## Who am I? :detective:
-- My name is Muhammad Apriandito, you can call me Dito. I am an entrepreneur, researcher, and also lecturer. 
-- I'm currently running my own research company [SocialX](https://github.com/socialx-indonesia). We provide various research platforms, consulting services, and various social computing workshops.
+- My name is Muhammad Apriandito, you can call me Dito. 
+- I'm currently running my own research company [SocialX](https://github.com/socialx-indonesia). 
 - I am also a lecturer, teaching at various universities in Indonesia. such as [Institut Teknologi Bandung](https://www.itb.ac.id/), [Universitas Padjajaran](https://www.unpad.ac.id/), and [Universitas Telkom](https://telkomuniversity.ac.id/).
 - I often become an instructor in various Data Science trainings, such as the Digital Talent Scholarship program organized by the Ministry of Communication and Informatics, and also the Digital Talent Incubator program organized by Telkom Indonesia.
-- In my spare time, I love to learn new things, especially related to data analytics and blockchain.
-- I'm a big fan of [#rstats](https://cran.r-project.org/bin/windows/base/) and #python.
+- I'm a big fan of [#rstats](https://cran.r-project.org/bin/windows/base/) and [#python](https://www.python.org/).
 
 ## Github Statistics
 <a href="https://github.com/apriandito/apriandito">
