@@ -8,7 +8,7 @@ Love to see you arround my repos. :heartpulse:
 - I often become an instructor in various Data Science trainings, such as the Digital Talent Scholarship program organized by the Ministry of Communication and Informatics, and also the Digital Talent Incubator program organized by Telkom Indonesia.
 - I'm a big fan of [#rstats](https://cran.r-project.org/bin/windows/base/) and [#python](https://www.python.org/).
 
-## Github Statistics
+## My Github Statistics
 <a href="https://github.com/apriandito/apriandito">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriandito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
