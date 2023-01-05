@@ -2,11 +2,11 @@
 Love to see you arround my repos. :heartpulse: 
 
 ## Who am I? :detective:
-- My name is Muhammad Apriandito, you can call me Dito. 
+- My name is Muhammad Apriandito, you can call me Dito.
+- I am interested in Data / Big Data Analytics, Artificial Intellligence (Machine Learning and Deep Learning) and also Blockchain. 
 - I'm currently running my own research company [SocialX](https://github.com/socialx-indonesia). 
 - I am also a lecturer, teaching at various universities in Indonesia. such as [Institut Teknologi Bandung](https://www.itb.ac.id/), [Universitas Padjajaran](https://www.unpad.ac.id/), and [Universitas Telkom](https://telkomuniversity.ac.id/).
-- I am interested in data analytics, machine learning, deep learning and blockchain.
-- Big fan of [#rstats](https://cran.r-project.org/bin/windows/base/) and [#python](https://www.python.org/).
+- Big fan of [#Rstats](https://cran.r-project.org/bin/windows/base/) and [#Python](https://www.python.org/).
 
 ## My Github Statistics
 <a href="https://github.com/apriandito/apriandito">
