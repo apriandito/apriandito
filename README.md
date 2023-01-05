@@ -9,10 +9,7 @@ Love to see you arround my repos. :heartpulse:
 - Big fan of [#Rstats](https://cran.r-project.org/bin/windows/base/) and [#Python](https://www.python.org/).
 
 ## My Github Statistics
-<a href="https://github.com/apriandito/apriandito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apriandito&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
+![Apriandito's GitHub stats](https://github-readme-stats.vercel.app/api?username=apriandito&show_icons=true&theme=transparent)
 
-<a href="https://github.com/apriandito/apriandito">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apriandito&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Project303 GitHub Stats" />
-</a>
+## Top Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apriandito&layout=compact)](https://github.com/apriandito/github-readme-stats)
