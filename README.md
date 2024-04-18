@@ -6,4 +6,4 @@ I'm delighted to have you explore my repositories! :smile:
 - I'm a **Technopreneur** and the founder of [SocialX](https://socialx.id/), an innovative research company.
 - Passionate about **Data/Big Data Analytics**, **Artificial Intelligence** (Machine Learning and Deep Learning), and **Blockchain Technology**. :bar_chart: :brain: :link:
 - I enjoy sharing my knowledge as a **part-time lecturer** at renowned Indonesian universities such as [Institut Teknologi Bandung](https://www.itb.ac.id/), [Universitas Padjajaran](https://www.unpad.ac.id/), and [Universitas Telkom](https://telkomuniversity.ac.id/). :mortar_board:
-- A dedicated enthusiast of **[#Rstats](https://cran.r-project.org/bin/windows/base/)** and **[#Python](https://www.python.org)**. These languages are the driving force behind my projects! :rocket:
+- A dedicated enthusiast of **[#Rstats](https://cran.r-project.org/bin/windows/base/)** and **[#Python](https://www.python.org)** :rocket:
